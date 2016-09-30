@@ -27,5 +27,5 @@ def run_tests():
 def even_squares(n):
     if n % 2 == 0:
         print (n**2)
-    elif n % 1 == 0:
+    else:
         print (n)
